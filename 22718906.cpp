@@ -22,4 +22,5 @@ int main()
             cout<<"Lose"<<endl;
     }
     return 0;
+    //sab changa si!!
 }
